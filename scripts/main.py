@@ -9,7 +9,7 @@ def main():
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
     # Load data
-    df = pd.read_csv('/Users/sumukha/Work/DM/Mlops/Project/password_classifier/pswd/Mlops_Password_classifier/cleanpasswordlist.csv', dtype={'password': str})
+    df = pd.read_csv('cleanpasswordlist.csv', dtype={'password': str})
     logging.info('Data loaded successfully.')
 
     # Handle NaN values
