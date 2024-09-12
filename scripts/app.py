@@ -6,9 +6,12 @@ import os
 from PIL import Image
 import logging
 
-# Configure logging to write to a file in the current directory
+# Configure logging to write to a file in the logs directory
+base_dir = os.path.dirname(__file__)
+log_dir = os.path.join(base_dir, 'logs')
+os.makedirs(log_dir, exist_ok=True)
 logging.basicConfig(
-    filename=os.path.join('/Users/sumukha/Work/DM/Mlops/Project/password_classifier/pswd/', 'logs/logfile_UI.txt'),
+    filename=os.path.join(log_dir, 'logfile_UI.txt'),
     level=logging.DEBUG,
     format='%(asctime)s - %(levelname)s - %(message)s',
     datefmt='%Y-%m-%d %H:%M:%S'
@@ -26,25 +29,19 @@ def load_artifact(filename):
 
 # Function to load the pipeline and model
 def load_pipeline(path):
-    with open(path, 'rb') as file:
-        pipeline = pickle.load(file)
-    return pipeline
+    return load_artifact(path)
 
 def load_model(path):
-    with open(path, 'rb') as file:
-        model = pickle.load(file)
-    return model
+    return load_artifact(path)
 
 def load_label_encoder(path):
-    with open(path, 'rb') as file:
-        label_encoder = pickle.load(file)
-    return label_encoder
+    return load_artifact(path)
 
-# Absolute path to the artifacts directory
-artifact_dir = '/Users/sumukha/Work/DM/Mlops/Project/password_classifier/pswd/artifacts'
+# Relative paths to the artifacts directory
+artifact_dir = os.path.join(base_dir, 'artifacts')
 
-# Absolute path to the images directory
-images_dir = '/Users/sumukha/Work/DM/Mlops/Project/password_classifier/pswd/images'
+# Relative paths to the images directory
+images_dir = os.path.join(base_dir, 'images')
 
 # Sidebar for navigation
 st.sidebar.title("Navigation")
@@ -123,7 +120,7 @@ elif page == "Batch Prediction":
                 response.raise_for_status()
                 predictions = response.json()
                 output_df = pd.DataFrame(predictions)
-                output_folder = os.path.join('/Users/sumukha/Work/DM/Mlops/Project/password_classifier/pswd/', 'Data', 'output')
+                output_folder = os.path.join(base_dir, 'Data', 'output')
                 os.makedirs(output_folder, exist_ok=True)
                 output_file_path = os.path.join(output_folder, 'batch_predictions.csv')
                 output_df.to_csv(output_file_path, index=False)
