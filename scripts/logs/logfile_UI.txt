@@ -1,0 +1,114 @@
+2024-09-12 20:23:08 - ERROR - Artifact file not found: /Users/sumukha/Work/DM/Mlops/Project/password_classifier/pswd/scripts/artifacts/data_processing_pipeline.pkl
+2024-09-12 20:23:08 - ERROR - Error during prediction: [Errno 2] No such file or directory: '/Users/sumukha/Work/DM/Mlops/Project/password_classifier/pswd/scripts/artifacts/data_processing_pipeline.pkl'
+2024-09-12 20:26:03 - ERROR - Artifact file not found: /Users/sumukha/Work/DM/Mlops/Project/password_classifier/pswd/artifacts/artifacts/data_processing_pipeline.pkl
+2024-09-12 20:26:03 - ERROR - Error during prediction: [Errno 2] No such file or directory: '/Users/sumukha/Work/DM/Mlops/Project/password_classifier/pswd/artifacts/artifacts/data_processing_pipeline.pkl'
+2024-09-12 20:26:38 - INFO - User input data frame created
+2024-09-12 20:26:38 - DEBUG - Transformed input: <Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 15 stored elements and shape (1, 3363679)>
+  Coords	Values
+  (0, 825096)	0.21289821907299447
+  (0, 825534)	0.2719122750919246
+  (0, 825546)	0.2783777635646925
+  (0, 2296472)	0.2277101274195241
+  (0, 2352995)	0.21961321731902386
+  (0, 2353263)	0.23779024109276525
+  (0, 2353303)	0.2721330132445754
+  (0, 2700550)	0.26565726326262035
+  (0, 2700621)	0.2772362333102552
+  (0, 2700626)	0.27775814723866926
+  (0, 2715032)	0.26590043101575384
+  (0, 2715099)	0.2711154138949042
+  (0, 2715105)	0.27372135807566234
+  (0, 3074640)	0.241132979550342
+  (0, 3074698)	0.26590043101575384
+2024-09-12 20:26:38 - DEBUG - Model prediction: [1]
+2024-09-12 20:26:38 - DEBUG - Decoded prediction: Medium
+2024-09-12 20:26:38 - INFO - Prediction: Medium
+2024-09-12 20:27:05 - INFO - User input data frame created
+2024-09-12 20:27:05 - DEBUG - Transformed input: <Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 15 stored elements and shape (1, 3363679)>
+  Coords	Values
+  (0, 825096)	0.21289821907299447
+  (0, 825534)	0.2719122750919246
+  (0, 825546)	0.2783777635646925
+  (0, 2296472)	0.2277101274195241
+  (0, 2352995)	0.21961321731902386
+  (0, 2353263)	0.23779024109276525
+  (0, 2353303)	0.2721330132445754
+  (0, 2700550)	0.26565726326262035
+  (0, 2700621)	0.2772362333102552
+  (0, 2700626)	0.27775814723866926
+  (0, 2715032)	0.26590043101575384
+  (0, 2715099)	0.2711154138949042
+  (0, 2715105)	0.27372135807566234
+  (0, 3074640)	0.241132979550342
+  (0, 3074698)	0.26590043101575384
+2024-09-12 20:27:05 - DEBUG - Model prediction: [1]
+2024-09-12 20:27:05 - DEBUG - Decoded prediction: Medium
+2024-09-12 20:27:05 - INFO - Prediction: Medium
+2024-09-12 20:27:27 - INFO - User input data frame created
+2024-09-12 20:27:27 - DEBUG - Transformed input: <Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 15 stored elements and shape (1, 3363679)>
+  Coords	Values
+  (0, 825096)	0.21289821907299447
+  (0, 825534)	0.2719122750919246
+  (0, 825546)	0.2783777635646925
+  (0, 2296472)	0.2277101274195241
+  (0, 2352995)	0.21961321731902386
+  (0, 2353263)	0.23779024109276525
+  (0, 2353303)	0.2721330132445754
+  (0, 2700550)	0.26565726326262035
+  (0, 2700621)	0.2772362333102552
+  (0, 2700626)	0.27775814723866926
+  (0, 2715032)	0.26590043101575384
+  (0, 2715099)	0.2711154138949042
+  (0, 2715105)	0.27372135807566234
+  (0, 3074640)	0.241132979550342
+  (0, 3074698)	0.26590043101575384
+2024-09-12 20:27:28 - DEBUG - Model prediction: [1]
+2024-09-12 20:27:28 - DEBUG - Decoded prediction: Medium
+2024-09-12 20:27:28 - INFO - Prediction: Medium
+2024-09-12 20:30:56 - INFO - User input data frame created
+2024-09-12 20:30:56 - DEBUG - Transformed input: <Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 15 stored elements and shape (1, 3363679)>
+  Coords	Values
+  (0, 825096)	0.21289821907299447
+  (0, 825534)	0.2719122750919246
+  (0, 825546)	0.2783777635646925
+  (0, 2296472)	0.2277101274195241
+  (0, 2352995)	0.21961321731902386
+  (0, 2353263)	0.23779024109276525
+  (0, 2353303)	0.2721330132445754
+  (0, 2700550)	0.26565726326262035
+  (0, 2700621)	0.2772362333102552
+  (0, 2700626)	0.27775814723866926
+  (0, 2715032)	0.26590043101575384
+  (0, 2715099)	0.2711154138949042
+  (0, 2715105)	0.27372135807566234
+  (0, 3074640)	0.241132979550342
+  (0, 3074698)	0.26590043101575384
+2024-09-12 20:30:56 - DEBUG - Model prediction: [1]
+2024-09-12 20:30:56 - DEBUG - Decoded prediction: Medium
+2024-09-12 20:30:56 - INFO - Prediction: Medium
+2024-09-12 20:33:26 - INFO - User input data frame created
+2024-09-12 20:33:26 - DEBUG - Transformed input: <Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 15 stored elements and shape (1, 3363679)>
+  Coords	Values
+  (0, 825096)	0.21289821907299447
+  (0, 825534)	0.2719122750919246
+  (0, 825546)	0.2783777635646925
+  (0, 2296472)	0.2277101274195241
+  (0, 2352995)	0.21961321731902386
+  (0, 2353263)	0.23779024109276525
+  (0, 2353303)	0.2721330132445754
+  (0, 2700550)	0.26565726326262035
+  (0, 2700621)	0.2772362333102552
+  (0, 2700626)	0.27775814723866926
+  (0, 2715032)	0.26590043101575384
+  (0, 2715099)	0.2711154138949042
+  (0, 2715105)	0.27372135807566234
+  (0, 3074640)	0.241132979550342
+  (0, 3074698)	0.26590043101575384
+2024-09-12 20:33:26 - DEBUG - Model prediction: [1]
+2024-09-12 20:33:26 - DEBUG - Decoded prediction: Medium
+2024-09-12 20:33:26 - INFO - Prediction: Medium

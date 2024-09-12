@@ -1,0 +1,27 @@
+2024-09-12 20:06:11 - INFO - Data loaded successfully.
+2024-09-12 20:06:11 - INFO - NaN values in password column handled.
+2024-09-12 20:06:46 - INFO - Data loaded successfully.
+2024-09-12 20:06:46 - INFO - NaN values in password column handled.
+2024-09-12 20:07:00 - INFO - Data processing pipeline created and applied to data.
+2024-09-12 20:07:00 - INFO - X_transformed is a sparse matrix.
+2024-09-12 20:07:00 - INFO - Data processing pipeline saved.
+2024-09-12 20:12:38 - INFO - Model saved successfully.
+2024-09-12 20:13:33 - INFO - Model training, prediction, and evaluation completed.
+2024-09-12 20:36:27 - INFO - Data loaded successfully.
+2024-09-12 20:36:27 - INFO - NaN values in password column handled.
+2024-09-12 20:36:41 - INFO - Data processing pipeline created and applied to data.
+2024-09-12 20:36:41 - INFO - X_transformed is a sparse matrix.
+2024-09-12 20:36:42 - INFO - Data processing pipeline saved.
+2024-09-12 20:37:17 - INFO - Data loaded from /Users/sumukha/Work/DM/Mlops/Project/password_classifier/pswd/cleanpasswordlist.csv.
+2024-09-12 20:37:17 - INFO - NaN values in password column handled.
+2024-09-12 20:37:31 - INFO - Data processing pipeline created and applied to data.
+2024-09-12 20:37:32 - INFO - Data processing pipeline saved to /Users/sumukha/Work/DM/Mlops/Project/password_classifier/pswd/artifacts/data_processing_pipeline.pkl.
+2024-09-12 20:44:35 - INFO - Model saved to /Users/sumukha/Work/DM/Mlops/Project/password_classifier/pswd/artifacts/best_classifier.pkl.
+2024-09-12 20:45:38 - INFO - Model training, prediction, and evaluation completed.
+2024-09-12 22:42:35 - INFO - Data loaded successfully.
+2024-09-12 22:42:35 - INFO - NaN values in password column handled.
+2024-09-12 22:42:49 - INFO - Data processing pipeline created and applied to data.
+2024-09-12 22:42:49 - INFO - X_transformed is a sparse matrix.
+2024-09-12 22:42:50 - INFO - Data processing pipeline saved.
+2024-09-12 22:52:05 - INFO - Model saved successfully.
+2024-09-12 22:52:56 - INFO - Model training, prediction, and evaluation completed.

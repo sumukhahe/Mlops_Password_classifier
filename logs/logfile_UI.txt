@@ -1,0 +1,888 @@
+2024-05-03 15:52:24 - INFO - Calling main
+2024-05-03 15:52:24 - INFO - Pipeline loaded successfully
+2024-05-03 15:52:25 - INFO - Model loaded successfully
+2024-05-03 15:52:25 - INFO - Label Encoder loaded successfully
+2024-05-03 15:52:37 - INFO - Calling main
+2024-05-03 15:52:37 - INFO - Pipeline loaded successfully
+2024-05-03 15:52:37 - INFO - Model loaded successfully
+2024-05-03 15:52:37 - INFO - Label Encoder loaded successfully
+2024-05-03 15:52:38 - INFO - Calling main
+2024-05-03 15:52:38 - INFO - Pipeline loaded successfully
+2024-05-03 15:52:38 - INFO - Model loaded successfully
+2024-05-03 15:52:38 - INFO - Label Encoder loaded successfully
+2024-05-03 15:52:39 - INFO - Calling main
+2024-05-03 15:52:39 - INFO - Pipeline loaded successfully
+2024-05-03 15:52:39 - INFO - Model loaded successfully
+2024-05-03 15:52:39 - INFO - Label Encoder loaded successfully
+2024-05-03 15:52:43 - INFO - Calling main
+2024-05-03 15:52:43 - INFO - Pipeline loaded successfully
+2024-05-03 15:52:43 - INFO - Calling main
+2024-05-03 15:52:43 - INFO - Pipeline loaded successfully
+2024-05-03 15:52:43 - INFO - Model loaded successfully
+2024-05-03 15:52:43 - INFO - Label Encoder loaded successfully
+2024-05-03 15:52:43 - INFO - Model loaded successfully
+2024-05-03 15:52:43 - INFO - Label Encoder loaded successfully
+2024-05-03 15:52:51 - INFO - Calling main
+2024-05-03 15:52:51 - INFO - Pipeline loaded successfully
+2024-05-03 15:52:51 - INFO - Model loaded successfully
+2024-05-03 15:52:51 - INFO - Label Encoder loaded successfully
+======================================
+
+2024-05-03 15:53:28 - INFO - Calling main
+2024-05-03 15:53:28 - INFO - Pipeline loaded successfully
+2024-05-03 15:53:28 - INFO - Model loaded successfully
+2024-05-03 15:53:28 - INFO - Label Encoder loaded successfully
+
+=======================2024-05-03 15:53:50 - INFO - Calling main
+2024-05-03 15:53:50 - INFO - Pipeline loaded successfully
+2024-05-03 15:53:50 - INFO - Model loaded successfully
+2024-05-03 15:53:50 - INFO - Label Encoder loaded successfully
+2024-05-03 15:53:50 - INFO - User input data frame created
+2024-05-03 15:53:50 - INFO - User input data frame is transformed
+2024-05-03 15:53:50 - INFO - Received Predicion: [2]
+2024-05-03 15:53:50 - INFO - Predicion Decoded: ['Medium']
+2024-05-03 15:54:12 - INFO - Calling main
+2024-05-03 15:54:12 - INFO - Pipeline loaded successfully
+2024-05-03 15:54:12 - INFO - Model loaded successfully
+2024-05-03 15:54:12 - INFO - Label Encoder loaded successfully
+2024-05-03 15:54:16 - INFO - Calling main
+2024-05-03 15:54:16 - INFO - Pipeline loaded successfully
+2024-05-03 15:54:16 - INFO - Model loaded successfully
+2024-05-03 15:54:16 - INFO - Label Encoder loaded successfully
+2024-05-03 15:54:20 - INFO - Calling main
+2024-05-03 15:54:20 - INFO - Pipeline loaded successfully
+2024-05-03 15:54:20 - INFO - Model loaded successfully
+2024-05-03 15:54:20 - INFO - Label Encoder loaded successfully
+2024-05-03 15:54:20 - INFO - Calling main
+2024-05-03 15:54:20 - INFO - Pipeline loaded successfully
+2024-05-03 15:54:20 - INFO - Model loaded successfully
+2024-05-03 15:54:20 - INFO - Label Encoder loaded successfully
+2024-05-03 15:54:20 - INFO - User input data frame created
+2024-05-03 15:54:20 - INFO - User input data frame is transformed
+2024-05-03 15:54:21 - INFO - Received Predicion: [0]
+2024-05-03 15:54:21 - INFO - Predicion Decoded: ['High']
+2024-06-11 18:52:55 - INFO - Calling UI main
+2024-06-11 18:52:56 - INFO - Pipeline loaded successfully
+2024-06-11 18:54:02 - INFO - Calling UI main
+2024-06-11 18:54:02 - INFO - Pipeline loaded successfully
+2024-06-11 18:54:03 - INFO - Model loaded successfully
+2024-06-11 18:54:03 - INFO - Label Encoder loaded successfully
+2024-06-11 18:54:16 - INFO - Calling UI main
+2024-06-11 18:54:16 - INFO - Pipeline loaded successfully
+2024-06-11 18:54:16 - INFO - Model loaded successfully
+2024-06-11 18:54:16 - INFO - Label Encoder loaded successfully
+2024-06-11 18:54:20 - INFO - Calling UI main
+2024-06-11 18:54:20 - INFO - Pipeline loaded successfully
+2024-06-11 18:54:21 - INFO - Model loaded successfully
+2024-06-11 18:54:21 - INFO - Label Encoder loaded successfully
+2024-06-11 18:54:25 - INFO - Calling UI main
+2024-06-11 18:54:25 - INFO - Pipeline loaded successfully
+2024-06-11 18:54:25 - INFO - Model loaded successfully
+2024-06-11 18:54:25 - INFO - Label Encoder loaded successfully
+2024-06-11 18:54:30 - INFO - Calling UI main
+2024-06-11 18:54:30 - INFO - Pipeline loaded successfully
+2024-06-11 18:54:30 - INFO - Model loaded successfully
+2024-06-11 18:54:30 - INFO - Label Encoder loaded successfully
+2024-06-11 18:54:30 - INFO - Calling UI main
+2024-06-11 18:54:30 - INFO - Pipeline loaded successfully
+2024-06-11 18:54:30 - INFO - Model loaded successfully
+2024-06-11 18:54:30 - INFO - Label Encoder loaded successfully
+2024-06-11 18:54:30 - INFO - User input data frame created
+2024-06-11 18:54:30 - INFO - User input data frame is transformed
+2024-06-11 18:54:30 - INFO - Received Predicion: [3]
+2024-06-11 18:54:30 - INFO - Predicion Decoded: ['Very High']
+2024-06-12 11:34:27 - INFO - Calling UI main
+2024-06-12 11:34:27 - INFO - Pipeline loaded successfully
+2024-06-12 11:34:38 - INFO - Model loaded successfully
+2024-06-12 11:34:38 - INFO - Label Encoder loaded successfully
+2024-06-12 11:34:45 - INFO - Calling UI main
+2024-06-12 11:34:45 - INFO - Pipeline loaded successfully
+2024-06-12 11:34:45 - INFO - Model loaded successfully
+2024-06-12 11:34:45 - INFO - Label Encoder loaded successfully
+2024-06-12 11:34:50 - INFO - Calling UI main
+2024-06-12 11:34:50 - INFO - Pipeline loaded successfully
+2024-06-12 11:34:50 - INFO - Model loaded successfully
+2024-06-12 11:34:50 - INFO - Label Encoder loaded successfully
+2024-06-12 11:34:57 - INFO - Calling UI main
+2024-06-12 11:34:57 - INFO - Pipeline loaded successfully
+2024-06-12 11:34:57 - INFO - Model loaded successfully
+2024-06-12 11:34:57 - INFO - Label Encoder loaded successfully
+2024-06-12 11:35:00 - INFO - Calling UI main
+2024-06-12 11:35:00 - INFO - Pipeline loaded successfully
+2024-06-12 11:35:01 - INFO - Model loaded successfully
+2024-06-12 11:35:01 - INFO - Label Encoder loaded successfully
+2024-06-12 11:35:04 - INFO - Calling UI main
+2024-06-12 11:35:05 - INFO - Pipeline loaded successfully
+2024-06-12 11:35:05 - INFO - Model loaded successfully
+2024-06-12 11:35:05 - INFO - Label Encoder loaded successfully
+2024-06-12 11:35:07 - INFO - Calling UI main
+2024-06-12 11:35:07 - INFO - Pipeline loaded successfully
+2024-06-12 11:35:07 - INFO - Model loaded successfully
+2024-06-12 11:35:07 - INFO - Label Encoder loaded successfully
+2024-06-12 11:35:08 - INFO - User input data frame created
+2024-06-12 11:35:08 - INFO - User input data frame is transformed
+2024-06-12 11:35:08 - INFO - Received Predicion: [2]
+2024-06-12 11:35:08 - INFO - Predicion Decoded: ['Medium']
+2024-06-12 12:54:30 - INFO - Calling UI main
+2024-06-12 12:54:30 - INFO - Pipeline loaded successfully
+2024-06-12 12:54:30 - INFO - Model loaded successfully
+2024-06-12 12:54:30 - INFO - Label Encoder loaded successfully
+2024-06-19 21:41:42 - INFO - Calling UI main
+2024-06-19 21:41:43 - INFO - Pipeline loaded successfully
+2024-06-19 21:41:45 - INFO - Model loaded successfully
+2024-06-19 21:41:45 - INFO - Label Encoder loaded successfully
+2024-06-20 11:22:48 - INFO - Calling UI main
+2024-06-20 11:22:48 - INFO - Pipeline loaded successfully
+2024-06-20 11:22:48 - INFO - Model loaded successfully
+2024-06-20 11:22:48 - INFO - Label Encoder loaded successfully
+2024-06-20 13:32:54 - INFO - Calling UI main
+2024-06-20 13:32:54 - INFO - Pipeline loaded successfully
+2024-06-20 13:32:55 - INFO - Model loaded successfully
+2024-06-20 13:32:55 - INFO - Label Encoder loaded successfully
+2024-06-20 15:36:05 - INFO - Calling UI main
+2024-06-20 15:36:05 - INFO - Pipeline loaded successfully
+2024-06-20 15:36:05 - INFO - Model loaded successfully
+2024-06-20 15:36:05 - INFO - Label Encoder loaded successfully
+2024-08-03 16:23:00 - INFO - Calling UI main
+2024-08-03 16:23:01 - INFO - Pipeline loaded successfully
+2024-08-03 16:23:01 - INFO - Model loaded successfully
+2024-08-03 16:23:01 - INFO - Label Encoder loaded successfully
+2024-08-03 16:23:09 - INFO - Calling UI main
+2024-08-03 16:23:09 - INFO - Pipeline loaded successfully
+2024-08-03 16:23:09 - INFO - Model loaded successfully
+2024-08-03 16:23:09 - INFO - Label Encoder loaded successfully
+2024-08-03 16:23:17 - INFO - Calling UI main
+2024-08-03 16:23:17 - INFO - Pipeline loaded successfully
+2024-08-03 16:23:17 - INFO - Model loaded successfully
+2024-08-03 16:23:17 - INFO - Label Encoder loaded successfully
+2024-08-03 16:23:43 - INFO - Calling UI main
+2024-08-03 16:23:43 - INFO - Pipeline loaded successfully
+2024-08-03 16:23:43 - INFO - Model loaded successfully
+2024-08-03 16:23:43 - INFO - Label Encoder loaded successfully
+2024-08-03 16:23:48 - INFO - Calling UI main
+2024-08-03 16:23:48 - INFO - Pipeline loaded successfully
+2024-08-03 16:23:49 - INFO - Model loaded successfully
+2024-08-03 16:23:49 - INFO - Label Encoder loaded successfully
+2024-08-03 16:23:56 - INFO - Calling UI main
+2024-08-03 16:23:56 - INFO - Pipeline loaded successfully
+2024-08-03 16:23:57 - INFO - Model loaded successfully
+2024-08-03 16:23:57 - INFO - Label Encoder loaded successfully
+2024-08-03 16:24:01 - INFO - Calling UI main
+2024-08-03 16:24:01 - INFO - Pipeline loaded successfully
+2024-08-03 16:24:01 - INFO - Model loaded successfully
+2024-08-03 16:24:01 - INFO - Label Encoder loaded successfully
+2024-08-03 16:24:01 - INFO - Calling UI main
+2024-08-03 16:24:01 - INFO - Pipeline loaded successfully
+2024-08-03 16:24:01 - INFO - Model loaded successfully
+2024-08-03 16:24:01 - INFO - Label Encoder loaded successfully
+2024-08-03 16:24:01 - INFO - User input data frame created
+2024-08-03 16:24:01 - INFO - User input data frame is transformed
+2024-08-03 16:24:01 - INFO - Received Predicion: [3]
+2024-08-03 16:24:01 - INFO - Predicion Decoded: ['Very High']
+2024-08-04 16:03:17 - INFO - Calling UI main
+2024-08-04 16:03:17 - INFO - Pipeline loaded successfully
+2024-08-04 16:03:17 - INFO - Model loaded successfully
+2024-08-04 16:03:17 - INFO - Label Encoder loaded successfully
+2024-08-04 16:03:43 - INFO - Calling UI main
+2024-08-04 16:03:43 - INFO - Pipeline loaded successfully
+2024-08-04 16:03:43 - INFO - Model loaded successfully
+2024-08-04 16:03:43 - INFO - Label Encoder loaded successfully
+2024-08-04 16:06:22 - INFO - Calling UI main
+2024-08-04 16:06:22 - INFO - Pipeline loaded successfully
+2024-08-04 16:06:22 - INFO - Model loaded successfully
+2024-08-04 16:06:22 - INFO - Label Encoder loaded successfully
+2024-08-09 01:30:50 - INFO - Calling UI main
+2024-08-09 01:30:51 - INFO - Pipeline loaded successfully
+2024-08-09 01:30:52 - INFO - Model loaded successfully
+2024-08-09 01:30:52 - INFO - Label Encoder loaded successfully
+2024-08-09 01:31:03 - INFO - Calling UI main
+2024-08-09 01:31:03 - INFO - Pipeline loaded successfully
+2024-08-09 01:31:03 - INFO - Model loaded successfully
+2024-08-09 01:31:03 - INFO - Label Encoder loaded successfully
+2024-08-09 01:31:08 - INFO - Calling UI main
+2024-08-09 01:31:08 - INFO - Pipeline loaded successfully
+2024-08-09 01:31:08 - INFO - Model loaded successfully
+2024-08-09 01:31:08 - INFO - Label Encoder loaded successfully
+2024-08-09 01:31:12 - INFO - Calling UI main
+2024-08-09 01:31:12 - INFO - Pipeline loaded successfully
+2024-08-09 01:31:12 - INFO - Model loaded successfully
+2024-08-09 01:31:12 - INFO - Label Encoder loaded successfully
+2024-08-09 01:31:12 - INFO - Calling UI main
+2024-08-09 01:31:12 - INFO - Pipeline loaded successfully
+2024-08-09 01:31:12 - INFO - Model loaded successfully
+2024-08-09 01:31:12 - INFO - Label Encoder loaded successfully
+2024-08-09 01:31:12 - INFO - User input data frame created
+2024-08-09 01:31:12 - INFO - User input data frame is transformed
+2024-08-09 01:31:12 - INFO - Received Predicion: [2]
+2024-08-09 01:31:12 - INFO - Predicion Decoded: ['Medium']
+2024-08-09 02:03:37 - INFO - Calling UI main
+2024-08-09 02:03:37 - INFO - Calling UI main
+2024-08-09 02:03:37 - INFO - Pipeline loaded successfully
+2024-08-09 02:03:37 - INFO - Model loaded successfully
+2024-08-09 02:03:37 - INFO - Label Encoder loaded successfully
+2024-08-09 02:03:39 - INFO - Pipeline loaded successfully
+2024-08-09 02:03:39 - INFO - Model loaded successfully
+2024-08-09 02:03:39 - INFO - Label Encoder loaded successfully
+2024-08-09 02:06:06 - INFO - Calling UI main
+2024-08-09 02:06:07 - INFO - Pipeline loaded successfully
+2024-08-09 02:06:07 - INFO - Model loaded successfully
+2024-08-09 02:06:07 - INFO - Label Encoder loaded successfully
+2024-08-09 10:33:25 - INFO - Calling UI main
+2024-08-09 10:33:25 - INFO - Pipeline loaded successfully
+2024-08-09 10:33:25 - INFO - Model loaded successfully
+2024-08-09 10:33:25 - INFO - Label Encoder loaded successfully
+2024-08-09 10:35:05 - INFO - Calling UI main
+2024-08-09 10:35:06 - INFO - Pipeline loaded successfully
+2024-08-09 10:35:07 - INFO - Model loaded successfully
+2024-08-09 10:35:07 - INFO - Label Encoder loaded successfully
+2024-08-09 11:47:03 - DEBUG - STREAM b'IHDR' 16 13
+2024-08-09 11:47:03 - DEBUG - STREAM b'PLTE' 41 312
+2024-08-09 11:47:03 - DEBUG - STREAM b'IDAT' 365 5838
+2024-08-09 11:47:06 - DEBUG - STREAM b'IHDR' 16 13
+2024-08-09 11:47:06 - DEBUG - STREAM b'PLTE' 41 312
+2024-08-09 11:47:06 - DEBUG - STREAM b'IDAT' 365 5838
+2024-08-09 11:47:11 - DEBUG - STREAM b'IHDR' 16 13
+2024-08-09 11:47:11 - DEBUG - STREAM b'PLTE' 41 312
+2024-08-09 11:47:11 - DEBUG - STREAM b'IDAT' 365 5838
+2024-08-09 11:47:11 - INFO - Batch file uploaded with 26 records
+2024-08-09 11:47:11 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:8000
+2024-08-09 11:47:11 - DEBUG - http://127.0.0.1:8000 "POST /batch_predict HTTP/11" 200 954
+2024-08-09 11:47:11 - INFO - Batch predictions saved to Data/output\batch_predictions.csv
+2024-08-09 11:50:21 - DEBUG - STREAM b'IHDR' 16 13
+2024-08-09 11:50:21 - DEBUG - STREAM b'PLTE' 41 312
+2024-08-09 11:50:21 - DEBUG - STREAM b'IDAT' 365 5838
+2024-08-09 11:50:21 - INFO - Batch file uploaded with 26 records
+2024-08-09 11:50:21 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:8000
+2024-08-09 11:50:21 - DEBUG - http://127.0.0.1:8000 "POST /batch_predict HTTP/11" 500 130
+2024-08-09 11:50:21 - ERROR - Batch prediction failed with status code 500
+2024-08-09 11:52:11 - DEBUG - STREAM b'IHDR' 16 13
+2024-08-09 11:52:11 - DEBUG - STREAM b'PLTE' 41 312
+2024-08-09 11:52:11 - DEBUG - STREAM b'IDAT' 365 5838
+2024-08-09 11:52:11 - INFO - Batch file uploaded with 26 records
+2024-08-09 11:52:11 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:8000
+2024-08-09 11:52:11 - DEBUG - http://127.0.0.1:8000 "POST /batch_predict HTTP/11" 200 954
+2024-08-09 11:52:11 - INFO - Batch predictions saved to Data/output\batch_predictions.csv
+2024-08-09 14:51:39 - DEBUG - STREAM b'IHDR' 16 13
+2024-08-09 14:51:39 - DEBUG - STREAM b'PLTE' 41 312
+2024-08-09 14:51:39 - DEBUG - STREAM b'IDAT' 365 5838
+2024-08-09 18:07:44 - DEBUG - STREAM b'IHDR' 16 13
+2024-08-09 18:07:44 - DEBUG - STREAM b'PLTE' 41 312
+2024-08-09 18:07:44 - DEBUG - STREAM b'IDAT' 365 5838
+2024-08-09 18:19:45 - DEBUG - STREAM b'IHDR' 16 13
+2024-08-09 18:19:45 - DEBUG - STREAM b'PLTE' 41 312
+2024-08-09 18:19:45 - DEBUG - STREAM b'IDAT' 365 5838
+2024-08-09 18:19:46 - DEBUG - STREAM b'IHDR' 16 13
+2024-08-09 18:19:46 - DEBUG - STREAM b'PLTE' 41 312
+2024-08-09 18:19:46 - DEBUG - STREAM b'IDAT' 365 5838
+2024-09-12 22:53:22 - INFO - User input data frame created
+2024-09-12 22:53:22 - DEBUG - Transformed input: <Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 15 stored elements and shape (1, 3363679)>
+  Coords	Values
+  (0, 825096)	0.21289821907299447
+  (0, 825534)	0.2719122750919246
+  (0, 825546)	0.2783777635646925
+  (0, 2296472)	0.2277101274195241
+  (0, 2352995)	0.21961321731902386
+  (0, 2353263)	0.23779024109276525
+  (0, 2353303)	0.2721330132445754
+  (0, 2700550)	0.26565726326262035
+  (0, 2700621)	0.2772362333102552
+  (0, 2700626)	0.27775814723866926
+  (0, 2715032)	0.26590043101575384
+  (0, 2715099)	0.2711154138949042
+  (0, 2715105)	0.27372135807566234
+  (0, 3074640)	0.241132979550342
+  (0, 3074698)	0.26590043101575384
+2024-09-12 22:53:22 - DEBUG - Model prediction: [1]
+2024-09-12 22:53:22 - DEBUG - Decoded prediction: Medium
+2024-09-12 22:53:22 - INFO - Prediction: Medium
+2024-09-12 22:53:37 - INFO - User input data frame created
+2024-09-12 22:53:37 - DEBUG - Transformed input: <Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 15 stored elements and shape (1, 3363679)>
+  Coords	Values
+  (0, 825096)	0.21289821907299447
+  (0, 825534)	0.2719122750919246
+  (0, 825546)	0.2783777635646925
+  (0, 2296472)	0.2277101274195241
+  (0, 2352995)	0.21961321731902386
+  (0, 2353263)	0.23779024109276525
+  (0, 2353303)	0.2721330132445754
+  (0, 2700550)	0.26565726326262035
+  (0, 2700621)	0.2772362333102552
+  (0, 2700626)	0.27775814723866926
+  (0, 2715032)	0.26590043101575384
+  (0, 2715099)	0.2711154138949042
+  (0, 2715105)	0.27372135807566234
+  (0, 3074640)	0.241132979550342
+  (0, 3074698)	0.26590043101575384
+2024-09-12 22:53:37 - DEBUG - Model prediction: [1]
+2024-09-12 22:53:37 - DEBUG - Decoded prediction: Medium
+2024-09-12 22:53:37 - INFO - Prediction: Medium
+2024-09-12 22:53:49 - INFO - User input data frame created
+2024-09-12 22:53:49 - DEBUG - Transformed input: <Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 15 stored elements and shape (1, 3363679)>
+  Coords	Values
+  (0, 825096)	0.21289821907299447
+  (0, 825534)	0.2719122750919246
+  (0, 825546)	0.2783777635646925
+  (0, 2296472)	0.2277101274195241
+  (0, 2352995)	0.21961321731902386
+  (0, 2353263)	0.23779024109276525
+  (0, 2353303)	0.2721330132445754
+  (0, 2700550)	0.26565726326262035
+  (0, 2700621)	0.2772362333102552
+  (0, 2700626)	0.27775814723866926
+  (0, 2715032)	0.26590043101575384
+  (0, 2715099)	0.2711154138949042
+  (0, 2715105)	0.27372135807566234
+  (0, 3074640)	0.241132979550342
+  (0, 3074698)	0.26590043101575384
+2024-09-12 22:53:49 - DEBUG - Model prediction: [1]
+2024-09-12 22:53:49 - DEBUG - Decoded prediction: Medium
+2024-09-12 22:53:49 - INFO - Prediction: Medium
+2024-09-12 22:54:03 - INFO - User input data frame created
+2024-09-12 22:54:03 - DEBUG - Transformed input: <Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 15 stored elements and shape (1, 3363679)>
+  Coords	Values
+  (0, 825096)	0.21289821907299447
+  (0, 825534)	0.2719122750919246
+  (0, 825546)	0.2783777635646925
+  (0, 2296472)	0.2277101274195241
+  (0, 2352995)	0.21961321731902386
+  (0, 2353263)	0.23779024109276525
+  (0, 2353303)	0.2721330132445754
+  (0, 2700550)	0.26565726326262035
+  (0, 2700621)	0.2772362333102552
+  (0, 2700626)	0.27775814723866926
+  (0, 2715032)	0.26590043101575384
+  (0, 2715099)	0.2711154138949042
+  (0, 2715105)	0.27372135807566234
+  (0, 3074640)	0.241132979550342
+  (0, 3074698)	0.26590043101575384
+2024-09-12 22:54:03 - DEBUG - Model prediction: [1]
+2024-09-12 22:54:03 - DEBUG - Decoded prediction: Medium
+2024-09-12 22:54:03 - INFO - Prediction: Medium
+2024-09-12 22:54:08 - INFO - User input data frame created
+2024-09-12 22:54:08 - DEBUG - Transformed input: <Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 15 stored elements and shape (1, 3363679)>
+  Coords	Values
+  (0, 825096)	0.21289821907299447
+  (0, 825534)	0.2719122750919246
+  (0, 825546)	0.2783777635646925
+  (0, 2296472)	0.2277101274195241
+  (0, 2352995)	0.21961321731902386
+  (0, 2353263)	0.23779024109276525
+  (0, 2353303)	0.2721330132445754
+  (0, 2700550)	0.26565726326262035
+  (0, 2700621)	0.2772362333102552
+  (0, 2700626)	0.27775814723866926
+  (0, 2715032)	0.26590043101575384
+  (0, 2715099)	0.2711154138949042
+  (0, 2715105)	0.27372135807566234
+  (0, 3074640)	0.241132979550342
+  (0, 3074698)	0.26590043101575384
+2024-09-12 22:54:08 - DEBUG - Model prediction: [1]
+2024-09-12 22:54:08 - DEBUG - Decoded prediction: Medium
+2024-09-12 22:54:08 - INFO - Prediction: Medium
+2024-09-12 22:54:19 - INFO - User input data frame created
+2024-09-12 22:54:19 - DEBUG - Transformed input: <Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 15 stored elements and shape (1, 3363679)>
+  Coords	Values
+  (0, 825096)	0.21289821907299447
+  (0, 825534)	0.2719122750919246
+  (0, 825546)	0.2783777635646925
+  (0, 2296472)	0.2277101274195241
+  (0, 2352995)	0.21961321731902386
+  (0, 2353263)	0.23779024109276525
+  (0, 2353303)	0.2721330132445754
+  (0, 2700550)	0.26565726326262035
+  (0, 2700621)	0.2772362333102552
+  (0, 2700626)	0.27775814723866926
+  (0, 2715032)	0.26590043101575384
+  (0, 2715099)	0.2711154138949042
+  (0, 2715105)	0.27372135807566234
+  (0, 3074640)	0.241132979550342
+  (0, 3074698)	0.26590043101575384
+2024-09-12 22:54:19 - DEBUG - Model prediction: [1]
+2024-09-12 22:54:19 - DEBUG - Decoded prediction: Medium
+2024-09-12 22:54:19 - INFO - Prediction: Medium
+2024-09-12 22:54:34 - INFO - User input data frame created
+2024-09-12 22:54:34 - DEBUG - Transformed input: <Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 15 stored elements and shape (1, 3363679)>
+  Coords	Values
+  (0, 825096)	0.21289821907299447
+  (0, 825534)	0.2719122750919246
+  (0, 825546)	0.2783777635646925
+  (0, 2296472)	0.2277101274195241
+  (0, 2352995)	0.21961321731902386
+  (0, 2353263)	0.23779024109276525
+  (0, 2353303)	0.2721330132445754
+  (0, 2700550)	0.26565726326262035
+  (0, 2700621)	0.2772362333102552
+  (0, 2700626)	0.27775814723866926
+  (0, 2715032)	0.26590043101575384
+  (0, 2715099)	0.2711154138949042
+  (0, 2715105)	0.27372135807566234
+  (0, 3074640)	0.241132979550342
+  (0, 3074698)	0.26590043101575384
+2024-09-12 22:54:34 - DEBUG - Model prediction: [1]
+2024-09-12 22:54:34 - DEBUG - Decoded prediction: Medium
+2024-09-12 22:54:34 - INFO - Prediction: Medium
+2024-09-12 22:54:48 - INFO - User input data frame created
+2024-09-12 22:54:48 - DEBUG - Transformed input: <Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 15 stored elements and shape (1, 3363679)>
+  Coords	Values
+  (0, 825096)	0.21289821907299447
+  (0, 825534)	0.2719122750919246
+  (0, 825546)	0.2783777635646925
+  (0, 2296472)	0.2277101274195241
+  (0, 2352995)	0.21961321731902386
+  (0, 2353263)	0.23779024109276525
+  (0, 2353303)	0.2721330132445754
+  (0, 2700550)	0.26565726326262035
+  (0, 2700621)	0.2772362333102552
+  (0, 2700626)	0.27775814723866926
+  (0, 2715032)	0.26590043101575384
+  (0, 2715099)	0.2711154138949042
+  (0, 2715105)	0.27372135807566234
+  (0, 3074640)	0.241132979550342
+  (0, 3074698)	0.26590043101575384
+2024-09-12 22:54:48 - DEBUG - Model prediction: [1]
+2024-09-12 22:54:48 - DEBUG - Decoded prediction: Medium
+2024-09-12 22:54:48 - INFO - Prediction: Medium
+2024-09-12 23:07:04 - INFO - User input data frame created and transformed
+2024-09-12 23:07:04 - DEBUG - Model prediction: [1]
+2024-09-12 23:07:04 - DEBUG - Decoded prediction: Medium
+2024-09-12 23:07:04 - INFO - Prediction: Medium
+2024-09-12 23:08:32 - INFO - Predicted strength for 'elyass15@ajilent-ci': 1
+2024-09-12 23:09:43 - INFO - Predicted strength for 'elyass15@ajilent-ci': 1
+2024-09-12 23:10:45 - INFO - Predicted strength for 'wdxlkwmlwk': 1
+2024-09-12 23:12:01 - INFO - User input data frame created and transformed
+2024-09-12 23:12:01 - DEBUG - Model prediction: [1]
+2024-09-12 23:12:01 - DEBUG - Decoded prediction: Medium
+2024-09-12 23:12:01 - INFO - Prediction: Medium
+2024-09-12 23:18:29 - INFO - Transformed input: <Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 36 stored elements and shape (1, 3363679)>
+  Coords	Values
+  (0, 75672)	0.14846306189933917
+  (0, 275748)	0.11370207153122873
+  (0, 275907)	0.1838180107280318
+  (0, 275908)	0.1838180107280318
+  (0, 313088)	0.1551479515931445
+  (0, 313096)	0.1838180107280318
+  (0, 313097)	0.1838180107280318
+  (0, 627812)	0.14667416724355223
+  (0, 627845)	0.1838180107280318
+  (0, 627846)	0.1838180107280318
+  (0, 945479)	0.12406630478599366
+  (0, 945583)	0.1783860718352627
+  (0, 945585)	0.1838180107280318
+  (0, 954555)	0.13870698929463313
+  (0, 954562)	0.1622566772933538
+  (0, 954566)	0.1838180107280318
+  (0, 1778647)	0.1367745047358375
+  (0, 1778713)	0.1783860718352627
+  (0, 1778715)	0.1838180107280318
+  (0, 2594866)	0.12398908953074411
+  (0, 2594931)	0.1715426381644737
+  (0, 2594933)	0.1838180107280318
+  (0, 2696602)	0.1394184915174928
+  (0, 2696603)	0.1783860718352627
+  (0, 2696605)	0.1838180107280318
+  (0, 2725779)	0.1367745047358375
+  (0, 2725823)	0.1745320498569119
+  (0, 3002770)	0.14709949851305265
+  (0, 3002778)	0.1838180107280318
+  (0, 3002779)	0.1838180107280318
+  (0, 3058995)	0.14240790320993102
+  (0, 3059047)	0.1745320498569119
+  (0, 3059050)	0.1838180107280318
+  (0, 3260502)	0.1409659956840062
+  (0, 3260558)	0.1783860718352627
+  (0, 3260559)	0.1838180107280318
+2024-09-12 23:18:29 - INFO - Model prediction: [1]
+2024-09-12 23:18:29 - INFO - Decoded prediction: 1
+2024-09-12 23:18:29 - INFO - Prediction result displayed: 1
+2024-09-12 23:18:44 - INFO - Transformed input: <Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 39 stored elements and shape (1, 3363679)>
+  Coords	Values
+  (0, 537319)	0.14897052609770386
+  (0, 537338)	0.17899581639923165
+  (0, 537340)	0.18444632229769578
+  (0, 741969)	0.13850318421785035
+  (0, 742043)	0.17512862092069365
+  (0, 742044)	0.18444632229769578
+  (0, 1181053)	0.12695680361575698
+  (0, 1181141)	0.16581091954369154
+  (0, 1181146)	0.18444632229769578
+  (0, 1322433)	0.1394148963578132
+  (0, 1322448)	0.17212899106766602
+  (0, 1335854)	0.13254807102624758
+  (0, 1335909)	0.17899581639923165
+  (0, 1335910)	0.18444632229769578
+  (0, 1453656)	0.12875181292377352
+  (0, 1453725)	0.14200802348274058
+  (0, 1453734)	0.17512862092069365
+  (0, 1705059)	0.12782436924126733
+  (0, 1705118)	0.15490990774676333
+  (0, 1705121)	0.16036041364522743
+  (0, 2194736)	0.10877229825980776
+  (0, 2288076)	0.11179004076085179
+  (0, 2288211)	0.1573607837921998
+  (0, 2288217)	0.18444632229769578
+  (0, 2378261)	0.13608908685902005
+  (0, 2378331)	0.16760592885170808
+  (0, 2378335)	0.17899581639923165
+  (0, 2432637)	0.14636056415333254
+  (0, 2432659)	0.18444632229769578
+  (0, 2432660)	0.18444632229769578
+  (0, 2437632)	0.12952017070734484
+  (0, 2437697)	0.17512862092069365
+  (0, 2437700)	0.18444632229769578
+  (0, 2792919)	0.14384395398390754
+  (0, 2792947)	0.17899581639923165
+  (0, 2792948)	0.17899581639923165
+  (0, 3336861)	0.1084857665968223
+  (0, 3336953)	0.15104271226822533
+  (0, 3336962)	0.17899581639923165
+2024-09-12 23:18:44 - INFO - Model prediction: [2]
+2024-09-12 23:18:44 - INFO - Decoded prediction: 2
+2024-09-12 23:18:44 - INFO - Prediction result displayed: 2
+2024-09-12 23:19:00 - INFO - Transformed input: <Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 12 stored elements and shape (1, 3363679)>
+  Coords	Values
+  (0, 68858)	0.2903195227731231
+  (0, 68889)	0.36991936268285186
+  (0, 68891)	0.38960088667892456
+  (0, 1603705)	0.21038272986143872
+  (0, 1816062)	0.22070978151065546
+  (0, 1816200)	0.2815128481806059
+  (0, 1816213)	0.32151400026394195
+  (0, 1895330)	0.22258683351313097
+  (0, 1895535)	0.2907530340497019
+  (0, 2262420)	0.19338816663300265
+  (0, 2262647)	0.2796803132038149
+  (0, 2262666)	0.31904336119596033
+2024-09-12 23:19:00 - INFO - Model prediction: [1]
+2024-09-12 23:19:00 - INFO - Decoded prediction: 1
+2024-09-12 23:19:00 - INFO - Prediction result displayed: 1
+2024-09-12 23:19:05 - INFO - Transformed input: <Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 10 stored elements and shape (1, 3363679)>
+  Coords	Values
+  (0, 1793160)	0.2163596782186768
+  (0, 2047303)	0.27177351742656214
+  (0, 2047378)	0.3641738765650873
+  (0, 2047380)	0.40355086312689975
+  (0, 2709209)	0.2557226759940205
+  (0, 2709394)	0.3431668692020703
+  (0, 2876102)	0.2982017643785593
+  (0, 2876124)	0.3528181525975868
+  (0, 2886882)	0.2577916532796334
+  (0, 2887005)	0.34760993749718294
+2024-09-12 23:19:06 - INFO - Model prediction: [1]
+2024-09-12 23:19:06 - INFO - Decoded prediction: 1
+2024-09-12 23:19:06 - INFO - Prediction result displayed: 1
+2024-09-12 23:19:16 - INFO - Transformed input: <Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 12 stored elements and shape (1, 3363679)>
+  Coords	Values
+  (0, 760793)	0.2454884280448528
+  (0, 760857)	0.32075251547959166
+  (0, 760859)	0.3310559271914655
+  (0, 991928)	0.228205367328013
+  (0, 991935)	0.29015795322305293
+  (0, 1600681)	0.20193063330062588
+  (0, 1693393)	0.2684461148357673
+  (0, 1693417)	0.32538555054483526
+  (0, 1693418)	0.33836631414048285
+  (0, 1866219)	0.22346160729464531
+  (0, 1866276)	0.31344212853057435
+  (0, 1866279)	0.3310559271914655
+2024-09-12 23:19:16 - INFO - Model prediction: [1]
+2024-09-12 23:19:16 - INFO - Decoded prediction: 1
+2024-09-12 23:19:16 - INFO - Prediction result displayed: 1
+2024-09-12 23:19:28 - INFO - Transformed input: <Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 8 stored elements and shape (1, 3363679)>
+  Coords	Values
+  (0, 20527)	0.24407317759136193
+  (0, 20544)	0.34920016049995095
+  (0, 20545)	0.39348675354474405
+  (0, 25297)	0.2273790520920377
+  (0, 25323)	0.34859207813637033
+  (0, 93412)	0.47502879733295966
+  (0, 93467)	0.32834319524014993
+  (0, 93470)	0.3962025040888379
+2024-09-12 23:19:29 - INFO - Model prediction: [0]
+2024-09-12 23:19:29 - INFO - Decoded prediction: 0
+2024-09-12 23:19:29 - INFO - Prediction result displayed: 0
+2024-09-12 23:19:36 - INFO - Transformed input: <Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 9 stored elements and shape (1, 3363679)>
+  Coords	Values
+  (0, 104453)	0.23862655394529186
+  (0, 104619)	0.3193417113343911
+  (0, 104635)	0.3450377929648133
+  (0, 187386)	0.3135969968397596
+  (0, 187489)	0.3430581927679749
+  (0, 187505)	0.3690137178229675
+  (0, 261877)	0.3369482102230905
+  (0, 261989)	0.36718480282359633
+  (0, 333810)	0.34851866634280354
+2024-09-12 23:19:36 - INFO - Model prediction: [1]
+2024-09-12 23:19:36 - INFO - Decoded prediction: 1
+2024-09-12 23:19:36 - INFO - Prediction result displayed: 1
+2024-09-12 23:19:42 - INFO - Transformed input: <Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 6 stored elements and shape (1, 3363679)>
+  Coords	Values
+  (0, 25297)	0.3221872985865609
+  (0, 103470)	0.3561028908391708
+  (0, 103500)	0.47277584828385444
+  (0, 103501)	0.5847551717486992
+  (0, 174791)	0.2787691412715738
+  (0, 174796)	0.35527204791936584
+2024-09-12 23:19:43 - INFO - Model prediction: [1]
+2024-09-12 23:19:43 - INFO - Decoded prediction: 1
+2024-09-12 23:19:43 - INFO - Prediction result displayed: 1
+2024-09-12 23:19:46 - INFO - Transformed input: <Compressed Sparse Row sparse matrix of dtype 'float64'
+	with 12 stored elements and shape (1, 3363679)>
+  Coords	Values
+  (0, 20012)	0.20761344424413303
+  (0, 25297)	0.20852813137566664
+  (0, 25323)	0.3196919592958544
+  (0, 25324)	0.3997613624705629
+  (0, 93412)	0.217823204349925
+  (0, 93433)	0.28937909475220513
+  (0, 103470)	0.23047919868329256
+  (0, 103500)	0.3059930190751787
+  (0, 103501)	0.37846899555617525
+  (0, 174791)	0.18042675291540894
+  (0, 174796)	0.2299414551959059
+  (0, 174807)	0.3805197974711679
+2024-09-12 23:19:46 - INFO - Model prediction: [0]
+2024-09-12 23:19:46 - INFO - Decoded prediction: 0
+2024-09-12 23:19:46 - INFO - Prediction result displayed: 0
+2024-09-12 23:22:52 - INFO - Prediction result displayed: Weak
+2024-09-12 23:23:40 - INFO - Raw prediction: [0]
+2024-09-12 23:23:40 - INFO - Prediction result displayed: Weak
+2024-09-12 23:23:57 - INFO - Raw prediction: [1]
+2024-09-12 23:23:57 - INFO - Prediction result displayed: Medium
+2024-09-12 23:24:13 - INFO - Raw prediction: [1]
+2024-09-12 23:24:13 - INFO - Prediction result displayed: Medium
+2024-09-12 23:24:23 - INFO - Raw prediction: [2]
+2024-09-12 23:24:23 - INFO - Prediction result displayed: Strong
+2024-09-12 23:24:49 - INFO - Raw prediction: [1]
+2024-09-12 23:24:49 - INFO - Prediction result displayed: Medium
+2024-09-12 23:24:57 - INFO - Raw prediction: [1]
+2024-09-12 23:24:57 - INFO - Prediction result displayed: Medium
+2024-09-12 23:25:18 - INFO - Raw prediction: [1]
+2024-09-12 23:25:18 - INFO - Prediction result displayed: Medium
+2024-09-12 23:25:34 - INFO - Raw prediction: [2]
+2024-09-12 23:25:34 - INFO - Prediction result displayed: Strong
+2024-09-12 23:25:46 - INFO - Raw prediction: [1]
+2024-09-12 23:25:46 - INFO - Prediction result displayed: Medium
+2024-09-12 23:25:58 - INFO - Raw prediction: [1]
+2024-09-12 23:25:58 - INFO - Prediction result displayed: Medium
+2024-09-12 23:26:11 - INFO - Raw prediction: [1]
+2024-09-12 23:26:11 - INFO - Prediction result displayed: Medium
+2024-09-12 23:27:13 - INFO - Raw prediction: [1]
+2024-09-12 23:27:13 - INFO - Prediction result displayed: Medium
+2024-09-12 23:27:28 - INFO - Raw prediction: [0]
+2024-09-12 23:27:28 - INFO - Prediction result displayed: Weak
+2024-09-12 23:27:43 - INFO - Raw prediction: [1]
+2024-09-12 23:27:43 - INFO - Prediction result displayed: Medium
+2024-09-12 23:27:54 - INFO - Raw prediction: [2]
+2024-09-12 23:27:54 - INFO - Prediction result displayed: Strong
+2024-09-12 23:28:07 - INFO - Raw prediction: [1]
+2024-09-12 23:28:07 - INFO - Prediction result displayed: Medium
+2024-09-12 23:28:56 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x03\xe8'
+2024-09-12 23:28:56 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x048'
+2024-09-12 23:28:56 - DEBUG - tag: BitsPerSample (258) - type: short (3) Tag Location: 46 - Data Location: 170 - value: b'\x00\x08\x00\x08\x00\x08'
+2024-09-12 23:28:56 - DEBUG - tag: PhotometricInterpretation (262) - type: short (3) - value: b'\x00\x02'
+2024-09-12 23:28:56 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2024-09-12 23:28:56 - DEBUG - tag: SamplesPerPixel (277) - type: short (3) - value: b'\x00\x03'
+2024-09-12 23:28:56 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 94 - Data Location: 176 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+2024-09-12 23:28:56 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 106 - Data Location: 184 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+2024-09-12 23:28:56 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2024-09-12 23:28:56 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 130 - Data Location: 192 - value: <table: 33 bytes>
+2024-09-12 23:28:56 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 142 - Data Location: 225 - value: b'2024:09:12 23:28:47\x00'
+2024-09-12 23:28:56 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 154 - Data Location: 245 - value: b'VectorStock.com/30500913\x00'
+2024-09-12 23:28:56 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x01\x10'
+2024-09-12 23:29:05 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x03\xe8'
+2024-09-12 23:29:05 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x048'
+2024-09-12 23:29:05 - DEBUG - tag: BitsPerSample (258) - type: short (3) Tag Location: 46 - Data Location: 170 - value: b'\x00\x08\x00\x08\x00\x08'
+2024-09-12 23:29:05 - DEBUG - tag: PhotometricInterpretation (262) - type: short (3) - value: b'\x00\x02'
+2024-09-12 23:29:05 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2024-09-12 23:29:05 - DEBUG - tag: SamplesPerPixel (277) - type: short (3) - value: b'\x00\x03'
+2024-09-12 23:29:05 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 94 - Data Location: 176 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+2024-09-12 23:29:05 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 106 - Data Location: 184 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+2024-09-12 23:29:05 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2024-09-12 23:29:05 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 130 - Data Location: 192 - value: <table: 33 bytes>
+2024-09-12 23:29:05 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 142 - Data Location: 225 - value: b'2024:09:12 23:28:47\x00'
+2024-09-12 23:29:05 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 154 - Data Location: 245 - value: b'VectorStock.com/30500913\x00'
+2024-09-12 23:29:05 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x01\x10'
+2024-09-12 23:29:14 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x03\xe8'
+2024-09-12 23:29:14 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x048'
+2024-09-12 23:29:14 - DEBUG - tag: BitsPerSample (258) - type: short (3) Tag Location: 46 - Data Location: 170 - value: b'\x00\x08\x00\x08\x00\x08'
+2024-09-12 23:29:14 - DEBUG - tag: PhotometricInterpretation (262) - type: short (3) - value: b'\x00\x02'
+2024-09-12 23:29:14 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2024-09-12 23:29:14 - DEBUG - tag: SamplesPerPixel (277) - type: short (3) - value: b'\x00\x03'
+2024-09-12 23:29:14 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 94 - Data Location: 176 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+2024-09-12 23:29:14 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 106 - Data Location: 184 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+2024-09-12 23:29:14 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2024-09-12 23:29:14 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 130 - Data Location: 192 - value: <table: 33 bytes>
+2024-09-12 23:29:14 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 142 - Data Location: 225 - value: b'2024:09:12 23:28:47\x00'
+2024-09-12 23:29:14 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 154 - Data Location: 245 - value: b'VectorStock.com/30500913\x00'
+2024-09-12 23:29:14 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x01\x10'
+2024-09-12 23:29:14 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x03\xe8'
+2024-09-12 23:29:14 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x048'
+2024-09-12 23:29:14 - DEBUG - tag: BitsPerSample (258) - type: short (3) Tag Location: 46 - Data Location: 170 - value: b'\x00\x08\x00\x08\x00\x08'
+2024-09-12 23:29:14 - DEBUG - tag: PhotometricInterpretation (262) - type: short (3) - value: b'\x00\x02'
+2024-09-12 23:29:14 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2024-09-12 23:29:14 - DEBUG - tag: SamplesPerPixel (277) - type: short (3) - value: b'\x00\x03'
+2024-09-12 23:29:14 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 94 - Data Location: 176 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+2024-09-12 23:29:14 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 106 - Data Location: 184 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+2024-09-12 23:29:14 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2024-09-12 23:29:14 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 130 - Data Location: 192 - value: <table: 33 bytes>
+2024-09-12 23:29:14 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 142 - Data Location: 225 - value: b'2024:09:12 23:28:47\x00'
+2024-09-12 23:29:14 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 154 - Data Location: 245 - value: b'VectorStock.com/30500913\x00'
+2024-09-12 23:29:14 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x01\x10'
+2024-09-12 23:29:15 - INFO - Raw prediction: [1]
+2024-09-12 23:29:15 - INFO - Prediction result displayed: Medium
+2024-09-13 00:41:22 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x03\xe8'
+2024-09-13 00:41:22 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x048'
+2024-09-13 00:41:22 - DEBUG - tag: BitsPerSample (258) - type: short (3) Tag Location: 46 - Data Location: 170 - value: b'\x00\x08\x00\x08\x00\x08'
+2024-09-13 00:41:22 - DEBUG - tag: PhotometricInterpretation (262) - type: short (3) - value: b'\x00\x02'
+2024-09-13 00:41:22 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2024-09-13 00:41:22 - DEBUG - tag: SamplesPerPixel (277) - type: short (3) - value: b'\x00\x03'
+2024-09-13 00:41:22 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 94 - Data Location: 176 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+2024-09-13 00:41:22 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 106 - Data Location: 184 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+2024-09-13 00:41:22 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2024-09-13 00:41:22 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 130 - Data Location: 192 - value: <table: 33 bytes>
+2024-09-13 00:41:22 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 142 - Data Location: 225 - value: b'2024:09:12 23:28:47\x00'
+2024-09-13 00:41:22 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 154 - Data Location: 245 - value: b'VectorStock.com/30500913\x00'
+2024-09-13 00:41:22 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x01\x10'
+2024-09-13 00:41:23 - INFO - Raw prediction: [1]
+2024-09-13 00:41:23 - INFO - Prediction result displayed: Medium
+2024-09-13 00:41:26 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x03\xe8'
+2024-09-13 00:41:26 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x048'
+2024-09-13 00:41:26 - DEBUG - tag: BitsPerSample (258) - type: short (3) Tag Location: 46 - Data Location: 170 - value: b'\x00\x08\x00\x08\x00\x08'
+2024-09-13 00:41:26 - DEBUG - tag: PhotometricInterpretation (262) - type: short (3) - value: b'\x00\x02'
+2024-09-13 00:41:26 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2024-09-13 00:41:26 - DEBUG - tag: SamplesPerPixel (277) - type: short (3) - value: b'\x00\x03'
+2024-09-13 00:41:26 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 94 - Data Location: 176 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+2024-09-13 00:41:26 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 106 - Data Location: 184 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+2024-09-13 00:41:26 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2024-09-13 00:41:26 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 130 - Data Location: 192 - value: <table: 33 bytes>
+2024-09-13 00:41:26 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 142 - Data Location: 225 - value: b'2024:09:12 23:28:47\x00'
+2024-09-13 00:41:26 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 154 - Data Location: 245 - value: b'VectorStock.com/30500913\x00'
+2024-09-13 00:41:26 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x01\x10'
+2024-09-13 00:41:26 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x03\xe8'
+2024-09-13 00:41:26 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x048'
+2024-09-13 00:41:26 - DEBUG - tag: BitsPerSample (258) - type: short (3) Tag Location: 46 - Data Location: 170 - value: b'\x00\x08\x00\x08\x00\x08'
+2024-09-13 00:41:26 - DEBUG - tag: PhotometricInterpretation (262) - type: short (3) - value: b'\x00\x02'
+2024-09-13 00:41:26 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2024-09-13 00:41:26 - DEBUG - tag: SamplesPerPixel (277) - type: short (3) - value: b'\x00\x03'
+2024-09-13 00:41:26 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 94 - Data Location: 176 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+2024-09-13 00:41:26 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 106 - Data Location: 184 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+2024-09-13 00:41:26 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2024-09-13 00:41:26 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 130 - Data Location: 192 - value: <table: 33 bytes>
+2024-09-13 00:41:26 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 142 - Data Location: 225 - value: b'2024:09:12 23:28:47\x00'
+2024-09-13 00:41:26 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 154 - Data Location: 245 - value: b'VectorStock.com/30500913\x00'
+2024-09-13 00:41:26 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x01\x10'
+2024-09-13 00:41:27 - INFO - Raw prediction: [1]
+2024-09-13 00:41:27 - INFO - Prediction result displayed: Medium
+2024-09-13 00:41:31 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x03\xe8'
+2024-09-13 00:41:31 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x048'
+2024-09-13 00:41:31 - DEBUG - tag: BitsPerSample (258) - type: short (3) Tag Location: 46 - Data Location: 170 - value: b'\x00\x08\x00\x08\x00\x08'
+2024-09-13 00:41:31 - DEBUG - tag: PhotometricInterpretation (262) - type: short (3) - value: b'\x00\x02'
+2024-09-13 00:41:31 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2024-09-13 00:41:31 - DEBUG - tag: SamplesPerPixel (277) - type: short (3) - value: b'\x00\x03'
+2024-09-13 00:41:31 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 94 - Data Location: 176 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+2024-09-13 00:41:31 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 106 - Data Location: 184 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+2024-09-13 00:41:31 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2024-09-13 00:41:31 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 130 - Data Location: 192 - value: <table: 33 bytes>
+2024-09-13 00:41:31 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 142 - Data Location: 225 - value: b'2024:09:12 23:28:47\x00'
+2024-09-13 00:41:31 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 154 - Data Location: 245 - value: b'VectorStock.com/30500913\x00'
+2024-09-13 00:41:31 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x01\x10'
+2024-09-13 00:41:31 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x03\xe8'
+2024-09-13 00:41:31 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x048'
+2024-09-13 00:41:31 - DEBUG - tag: BitsPerSample (258) - type: short (3) Tag Location: 46 - Data Location: 170 - value: b'\x00\x08\x00\x08\x00\x08'
+2024-09-13 00:41:31 - DEBUG - tag: PhotometricInterpretation (262) - type: short (3) - value: b'\x00\x02'
+2024-09-13 00:41:31 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2024-09-13 00:41:31 - DEBUG - tag: SamplesPerPixel (277) - type: short (3) - value: b'\x00\x03'
+2024-09-13 00:41:31 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 94 - Data Location: 176 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+2024-09-13 00:41:31 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 106 - Data Location: 184 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+2024-09-13 00:41:31 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2024-09-13 00:41:31 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 130 - Data Location: 192 - value: <table: 33 bytes>
+2024-09-13 00:41:31 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 142 - Data Location: 225 - value: b'2024:09:12 23:28:47\x00'
+2024-09-13 00:41:31 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 154 - Data Location: 245 - value: b'VectorStock.com/30500913\x00'
+2024-09-13 00:41:31 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x01\x10'
+2024-09-13 00:41:32 - INFO - Raw prediction: [2]
+2024-09-13 00:41:32 - INFO - Prediction result displayed: Strong
+2024-09-13 00:42:44 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x03\xe8'
+2024-09-13 00:42:44 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x048'
+2024-09-13 00:42:44 - DEBUG - tag: BitsPerSample (258) - type: short (3) Tag Location: 46 - Data Location: 170 - value: b'\x00\x08\x00\x08\x00\x08'
+2024-09-13 00:42:44 - DEBUG - tag: PhotometricInterpretation (262) - type: short (3) - value: b'\x00\x02'
+2024-09-13 00:42:44 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2024-09-13 00:42:44 - DEBUG - tag: SamplesPerPixel (277) - type: short (3) - value: b'\x00\x03'
+2024-09-13 00:42:44 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 94 - Data Location: 176 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+2024-09-13 00:42:44 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 106 - Data Location: 184 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+2024-09-13 00:42:44 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2024-09-13 00:42:44 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 130 - Data Location: 192 - value: <table: 33 bytes>
+2024-09-13 00:42:44 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 142 - Data Location: 225 - value: b'2024:09:12 23:28:47\x00'
+2024-09-13 00:42:44 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 154 - Data Location: 245 - value: b'VectorStock.com/30500913\x00'
+2024-09-13 00:42:44 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x01\x10'
+2024-09-13 00:42:49 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x03\xe8'
+2024-09-13 00:42:49 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x048'
+2024-09-13 00:42:49 - DEBUG - tag: BitsPerSample (258) - type: short (3) Tag Location: 46 - Data Location: 170 - value: b'\x00\x08\x00\x08\x00\x08'
+2024-09-13 00:42:49 - DEBUG - tag: PhotometricInterpretation (262) - type: short (3) - value: b'\x00\x02'
+2024-09-13 00:42:49 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2024-09-13 00:42:49 - DEBUG - tag: SamplesPerPixel (277) - type: short (3) - value: b'\x00\x03'
+2024-09-13 00:42:49 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 94 - Data Location: 176 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+2024-09-13 00:42:49 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 106 - Data Location: 184 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+2024-09-13 00:42:49 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2024-09-13 00:42:49 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 130 - Data Location: 192 - value: <table: 33 bytes>
+2024-09-13 00:42:49 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 142 - Data Location: 225 - value: b'2024:09:12 23:28:47\x00'
+2024-09-13 00:42:49 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 154 - Data Location: 245 - value: b'VectorStock.com/30500913\x00'
+2024-09-13 00:42:49 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x01\x10'
+2024-09-13 00:42:49 - INFO - Batch file uploaded with 669425 records
+2024-09-13 00:42:49 - ERROR - Batch prediction failed: Out of range float values are not JSON compliant
+2024-09-13 01:02:16 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x03\xe8'
+2024-09-13 01:02:16 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x048'
+2024-09-13 01:02:16 - DEBUG - tag: BitsPerSample (258) - type: short (3) Tag Location: 46 - Data Location: 170 - value: b'\x00\x08\x00\x08\x00\x08'
+2024-09-13 01:02:16 - DEBUG - tag: PhotometricInterpretation (262) - type: short (3) - value: b'\x00\x02'
+2024-09-13 01:02:16 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2024-09-13 01:02:16 - DEBUG - tag: SamplesPerPixel (277) - type: short (3) - value: b'\x00\x03'
+2024-09-13 01:02:16 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 94 - Data Location: 176 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+2024-09-13 01:02:16 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 106 - Data Location: 184 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+2024-09-13 01:02:16 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2024-09-13 01:02:16 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 130 - Data Location: 192 - value: <table: 33 bytes>
+2024-09-13 01:02:16 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 142 - Data Location: 225 - value: b'2024:09:12 23:28:47\x00'
+2024-09-13 01:02:16 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 154 - Data Location: 245 - value: b'VectorStock.com/30500913\x00'
+2024-09-13 01:02:16 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x01\x10'
+2024-09-13 01:02:18 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x03\xe8'
+2024-09-13 01:02:18 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x048'
+2024-09-13 01:02:18 - DEBUG - tag: BitsPerSample (258) - type: short (3) Tag Location: 46 - Data Location: 170 - value: b'\x00\x08\x00\x08\x00\x08'
+2024-09-13 01:02:18 - DEBUG - tag: PhotometricInterpretation (262) - type: short (3) - value: b'\x00\x02'
+2024-09-13 01:02:18 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2024-09-13 01:02:18 - DEBUG - tag: SamplesPerPixel (277) - type: short (3) - value: b'\x00\x03'
+2024-09-13 01:02:18 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 94 - Data Location: 176 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+2024-09-13 01:02:18 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 106 - Data Location: 184 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+2024-09-13 01:02:18 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2024-09-13 01:02:18 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 130 - Data Location: 192 - value: <table: 33 bytes>
+2024-09-13 01:02:18 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 142 - Data Location: 225 - value: b'2024:09:12 23:28:47\x00'
+2024-09-13 01:02:18 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 154 - Data Location: 245 - value: b'VectorStock.com/30500913\x00'
+2024-09-13 01:02:18 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x01\x10'
+2024-09-13 01:02:21 - DEBUG - tag: ImageWidth (256) - type: short (3) - value: b'\x03\xe8'
+2024-09-13 01:02:21 - DEBUG - tag: ImageLength (257) - type: short (3) - value: b'\x048'
+2024-09-13 01:02:21 - DEBUG - tag: BitsPerSample (258) - type: short (3) Tag Location: 46 - Data Location: 170 - value: b'\x00\x08\x00\x08\x00\x08'
+2024-09-13 01:02:21 - DEBUG - tag: PhotometricInterpretation (262) - type: short (3) - value: b'\x00\x02'
+2024-09-13 01:02:21 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2024-09-13 01:02:21 - DEBUG - tag: SamplesPerPixel (277) - type: short (3) - value: b'\x00\x03'
+2024-09-13 01:02:21 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 94 - Data Location: 176 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+2024-09-13 01:02:21 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 106 - Data Location: 184 - value: b"\x00\n\xfc\x80\x00\x00'\x10"
+2024-09-13 01:02:21 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2024-09-13 01:02:21 - DEBUG - tag: Software (305) - type: string (2) Tag Location: 130 - Data Location: 192 - value: <table: 33 bytes>
+2024-09-13 01:02:21 - DEBUG - tag: DateTime (306) - type: string (2) Tag Location: 142 - Data Location: 225 - value: b'2024:09:12 23:28:47\x00'
+2024-09-13 01:02:21 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 154 - Data Location: 245 - value: b'VectorStock.com/30500913\x00'
+2024-09-13 01:02:21 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x01\x10'
+2024-09-13 01:02:21 - INFO - Batch file uploaded with 669425 records
+2024-09-13 01:02:21 - ERROR - Batch prediction failed: Out of range float values are not JSON compliant
