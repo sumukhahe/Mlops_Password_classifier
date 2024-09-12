@@ -65,7 +65,7 @@ def encode_response_variable(y):
     y_encoded = label_encoder.fit_transform(y)
 
     # Save the label encoder for later use
-    with open('/Users/sumukha/Work/DM/Mlops/Project/password_classifier/pswd/Mlops_Password_classifier/artifacts/label_encoder.pkl', 'wb') as f:
+    with open('artifacts/label_encoder.pkl', 'wb') as f:
         pickle.dump(label_encoder, f)
 
     print('Labels encoded for the response variable.')
