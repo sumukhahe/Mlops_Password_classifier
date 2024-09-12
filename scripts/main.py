@@ -9,7 +9,7 @@ def main():
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
     # Load data
-    df = pd.read_csv('/Users/sumukha/Work/DM/Mlops/Project/password_classifier/pswd/cleanpasswordlist.csv', dtype={'password': str})
+    df = pd.read_csv('/Users/sumukha/Work/DM/Mlops/Project/password_classifier/pswd/Mlops_Password_classifier/cleanpasswordlist.csv', dtype={'password': str})
     logging.info('Data loaded successfully.')
 
     # Handle NaN values
@@ -33,7 +33,7 @@ def main():
         logging.info("X_transformed is a sparse matrix.")
 
     # Save the pipeline for later use
-    save_pipeline(pipeline, '/Users/sumukha/Work/DM/Mlops/Project/password_classifier/pswd/artifacts/data_processing_pipeline.pkl')
+    save_pipeline(pipeline, '/Users/sumukha/Work/DM/Mlops/Project/password_classifier/pswd/Mlops_Password_classifier/artifacts/data_processing_pipeline.pkl')
     logging.info('Data processing pipeline saved.')
 
     # Split the data for training and validation
@@ -43,7 +43,7 @@ def main():
     best_model = training_pipeline(X_train, y_train)
 
     # Save the trained model
-    save_model(best_model, '/Users/sumukha/Work/DM/Mlops/Project/password_classifier/pswd/artifacts/best_classifier.pkl')
+    save_model(best_model, '/Users/sumukha/Work/DM/Mlops/Project/password_classifier/pswd/Mlops_Password_classifier/artifacts/best_classifier.pkl')
     logging.info('Model saved successfully.')
 
     # Make predictions

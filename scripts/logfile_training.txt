@@ -25,3 +25,10 @@
 2024-09-12 22:42:50 - INFO - Data processing pipeline saved.
 2024-09-12 22:52:05 - INFO - Model saved successfully.
 2024-09-12 22:52:56 - INFO - Model training, prediction, and evaluation completed.
+2024-09-13 01:30:58 - INFO - Data loaded successfully.
+2024-09-13 01:30:58 - INFO - NaN values in password column handled.
+2024-09-13 01:31:11 - INFO - Data processing pipeline created and applied to data.
+2024-09-13 01:31:11 - INFO - X_transformed is a sparse matrix.
+2024-09-13 01:31:12 - INFO - Data processing pipeline saved.
+2024-09-13 01:36:00 - INFO - Model saved successfully.
+2024-09-13 01:36:38 - INFO - Model training, prediction, and evaluation completed.
