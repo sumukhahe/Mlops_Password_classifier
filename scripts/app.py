@@ -8,7 +8,7 @@ import logging
 
 # Configure logging to write to a file in the current directory
 logging.basicConfig(
-    filename=os.path.join('/Users/sumukha/Work/DM/Mlops/Project/password_classifier/pswd/', 'logs/logfile_UI.txt'),
+    filename=os.path.join('logs', 'logs/logfile_UI.txt'),
     level=logging.DEBUG,
     format='%(asctime)s - %(levelname)s - %(message)s',
     datefmt='%Y-%m-%d %H:%M:%S'
